@@ -1,2 +1,2 @@
-# snowdaysit.github.io
-Repository of the official Snowdays website
+# Official Snowdays website
+Repository of the official Snowdays website. It temporarily hosts the static version of the website originally developed by [Romeo Bellon](https://github.com/mryraghi), [Daniel Morandini](https://github.com/danielmorandini) and [Alessandro Piccoli](https://github.com/alpicco). The original, dynamic, version can be found at [this link](https://github.com/mryraghi/snowdays).
