@@ -12274,7 +12274,7 @@
  
  .login-body {
    background-size: 50% 100%;
-   background: url('https://snowdaysit.github.io/static-website/images/login/background.png') repeat-x top;
+   background: url('https://snowdaysit.github.io/images/login/background.png') repeat-x top;
  }
  
  * {
@@ -12620,17 +12620,17 @@
  
  @font-face {
    font-family: 'CircularBold';
-   src: url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-bold.eot");
+   src: url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-bold.eot");
    /* IE9 Compat Modes */
-   src: url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-bold.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-bold.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-bold.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-bold.svg#svgFontName") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-bold.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-bold.woff") format("woff"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-bold.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-bold.svg#svgFontName") format("svg");
    /* Legacy iOS */
  }
  
  @font-face {
    font-family: 'CircularBook';
-   src: url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-book.eot");
+   src: url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-book.eot");
    /* IE9 Compat Modes */
-   src: url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-book.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-book.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-book.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/Circular/lineto-circular-pro-book.svg#svgFontName") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-book.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-book.woff") format("woff"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-book.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/Circular/lineto-circular-pro-book.svg#svgFontName") format("svg");
    /* Legacy iOS */
  }
  
@@ -12700,7 +12700,7 @@
  }
  
  #s-section-1 {
-   background: url("https://snowdaysit.github.io/static-website/images/home/s-section-1.jpg") no-repeat left bottom;
+   background: url("https://snowdaysit.github.io/images/home/s-section-1.jpg") no-repeat left bottom;
    -webkit-background-size: cover;
    background-size: cover;
  }
@@ -12872,7 +12872,7 @@
    bottom: 20px;
    width: 44px;
    height: 44px;
-   background: url("https://snowdaysit.github.io/static-website/images/icons/cd-arrow-bottom.svg") no-repeat center center;
+   background: url("https://snowdaysit.github.io/images/icons/cd-arrow-bottom.svg") no-repeat center center;
  }
  
  /* --------------------------------
@@ -13206,7 +13206,7 @@
    display: table;
    width: 100%;
    height: auto;
-   background: url("https://snowdaysit.github.io/static-website/images/home/pexels-photo-89764.jpeg") no-repeat bottom;
+   background: url("https://snowdaysit.github.io/images/home/pexels-photo-89764.jpeg") no-repeat bottom;
    -webkit-background-size: contain;
    background-size: contain;
  }
@@ -13597,24 +13597,24 @@
  
  @font-face {
    font-family: 'Brandon_Black';
-   src: url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_blk.eot');
-   src: local('☺'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_blk.woff') format('woff'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_blk.ttf') format('truetype'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_blk.svg') format('svg');
+   src: url('https://snowdaysit.github.io/fonts/Brandon/Brandon_blk.eot');
+   src: local('☺'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_blk.woff') format('woff'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_blk.ttf') format('truetype'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_blk.svg') format('svg');
    font-weight: normal;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'Brandon_Light';
-   src: url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_light.eot');
-   src: local('☺'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_light.woff') format('woff'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_light.ttf') format('truetype'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_light.svg') format('svg');
+   src: url('https://snowdaysit.github.io/fonts/Brandon/Brandon_light.eot');
+   src: local('☺'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_light.woff') format('woff'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_light.ttf') format('truetype'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_light.svg') format('svg');
    font-weight: normal;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'Brandon_Medium';
-   src: url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_med.eot');
-   src: local('☺'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_med.woff') format('woff'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_med.ttf') format('truetype'), url('https://snowdaysit.github.io/static-website/fonts/Brandon/Brandon_med.svg') format('svg');
+   src: url('https://snowdaysit.github.io/fonts/Brandon/Brandon_med.eot');
+   src: local('☺'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_med.woff') format('woff'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_med.ttf') format('truetype'), url('https://snowdaysit.github.io/fonts/Brandon/Brandon_med.svg') format('svg');
    font-weight: normal;
    font-style: normal;
  }
@@ -24884,32 +24884,32 @@
  
  @font-face {
    font-family: 'CircularBold';
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.eot");
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.woff2") format("woff2"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Bold.svg#Circular-Bold") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.eot");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.woff2") format("woff2"), url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.woff") format("woff"), url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Bold.svg#Circular-Bold") format("svg");
    font-weight: bold;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'CircularMedium';
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.eot");
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.woff2") format("woff2"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Medium.svg#Circular-Medium") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.eot");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.woff2") format("woff2"), url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.woff") format("woff"), url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Medium.svg#Circular-Medium") format("svg");
    font-weight: 500;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'CircularBook';
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.eot");
-   src: url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.woff2") format("woff2"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/circular/Circular-Book.svg#Circular-Book") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Book.eot");
+   src: url("https://snowdaysit.github.io/fonts/circular/Circular-Book.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Book.woff2") format("woff2"), url("https://snowdaysit.github.io/fonts/circular/Circular-Book.woff") format("woff"), url("https://snowdaysit.github.io/fonts/circular/Circular-Book.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/circular/Circular-Book.svg#Circular-Book") format("svg");
    font-weight: normal;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'Jaapokki';
-   src: url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.eot");
-   src: url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.woff2") format("woff2"), url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.woff") format("woff"), url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.ttf") format("truetype"), url("https://snowdaysit.github.io/static-website/fonts/jaapokki/jaapokki-regular-webfont.svg#jaapokkiregular") format("svg");
+   src: url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.eot");
+   src: url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.woff2") format("woff2"), url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.woff") format("woff"), url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.ttf") format("truetype"), url("https://snowdaysit.github.io/fonts/jaapokki/jaapokki-regular-webfont.svg#jaapokkiregular") format("svg");
    font-weight: normal;
    font-style: normal;
  }
@@ -24935,7 +24935,7 @@
    -webkit-appearance: none;
    -moz-appearance: none;
    appearance: none;
-   background: url("https://snowdaysit.github.io/static-website/images/icons/sort.svg") no-repeat right center #636c72;
+   background: url("https://snowdaysit.github.io/images/icons/sort.svg") no-repeat right center #636c72;
    background-size: 20px;
  }
  
@@ -26067,25 +26067,25 @@
  
  .sn-parallax-section-2 {
    height: 100vh;
-   background: url("https://snowdaysit.github.io/static-website/images/home/section-2.jpg") no-repeat fixed center;
+   background: url("https://snowdaysit.github.io/images/home/section-2.jpg") no-repeat fixed center;
    background-size: cover;
  }
  
  .sn-parallax-section-3 {
    height: 100vh;
-   background: url("https://snowdaysit.github.io/static-website/images/home/section-3.jpg") no-repeat fixed center;
+   background: url("https://snowdaysit.github.io/images/home/section-3.jpg") no-repeat fixed center;
    background-size: cover;
  }
  
  .sn-parallax-sport-3 {
    height: 100vh;
-   background: url("https://snowdaysit.github.io/static-website/images/home/sports-3.jpg") no-repeat fixed center;
+   background: url("https://snowdaysit.github.io/images/home/sports-3.jpg") no-repeat fixed center;
    background-size: cover;
  }
  
  .sn-parallax-parties {
    height: 100vh;
-   background: url("https://snowdaysit.github.io/static-website/images/home/parties.jpg") no-repeat fixed center;
+   background: url("https://snowdaysit.github.io/images/home/parties.jpg") no-repeat fixed center;
    background-size: cover;
  }
  
